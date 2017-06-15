@@ -2,4 +2,4 @@
 
 react-router-redux v4 版本的应用
 
-练习的例子。
+小例子。
